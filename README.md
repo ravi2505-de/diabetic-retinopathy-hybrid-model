@@ -89,20 +89,15 @@ This hybrid approach balances moderate predictive accuracy with human-interpreta
 ## ▶️ Getting Started
 
 1. **Clone the repository**
-```bash
+```
 git clone https://github.com/YOUR_USERNAME/diabetic-retinopathy-hybrid-model.git
 cd diabetic-retinopathy-hybrid-model
 Install dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Launch the notebook
 
-bash
-Copy
-Edit
+
 jupyter notebook diabetic_retinopathy_hybrid.ipynb
 🧠 Key Takeaways
 Hybrid models (CNN + Random Forest) can enhance both model performance and explainability
