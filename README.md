@@ -82,9 +82,7 @@ This hybrid approach balances moderate predictive accuracy with human-interpreta
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -116,15 +114,13 @@ The model is a step forward toward transparent medical AI solutions
 📬 Contact
 Ravi Mutthina
 📍 Dallas, TX
-📧 ravichandm22@gmail.com
+📧 ravimutthina@gmail.com
 🔗 LinkedIn
 
 📝 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -135,4 +131,4 @@ Just make sure:
 - It’s inside a folder called `/images`
 - Your notebook and this `README.md` are in the root directory
 
-Let me know if you want help writing a **LinkedIn post** to show off this project, or to set up a **GitHub p
+Let me know if you want help writing a **LinkedIn post** to show off this project, or to set up a **GitHub profile**
