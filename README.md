@@ -65,7 +65,7 @@ This hybrid approach balances moderate predictive accuracy with human-interpreta
 
 ### 🖼️ Visual Results
 
-![Hybrid Performance and Confusion Matrix](images/Confusion_matrix.png)
+![Hybrid Performance and Confusion Matrix](images/Confusion matrix.png)
 
 - **Left**: Class-wise performance with confusion matrix
 - **Right**: LIME visual explanation highlighting decision regions in a No_DR sample
